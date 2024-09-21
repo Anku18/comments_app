@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755647011141",
+    "project_id": "comments-task-app",
+    "storage_bucket": "comments-task-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755647011141:android:8913eb687bb7c2c89ac62c",
+        "android_client_info": {
+          "package_name": "com.app.comments_ap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMV9lvQfSc9VpQOjEcKwKml0C9FImhbBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
